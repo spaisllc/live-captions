@@ -9,9 +9,9 @@ Springs AI Solutions, Colorado Springs.
 ## Latest downloads
 
 - Android (APK): latest `android-` release, currently
-  [VoxGram Live 0.3.3 for Android](https://github.com/spaisllc/live-captions/releases/tag/android-0.3.3)
+  [VoxGram Live 0.4.3 for Android](https://github.com/spaisllc/live-captions/releases/tag/android-0.4.3)
 - Desktop (Chrome extension zip): latest `desktop-` release, currently
-  [VoxGram Live 0.11.8 for Chrome](https://github.com/spaisllc/live-captions/releases/tag/desktop-0.11.8)
+  [VoxGram Live 0.13.0 for Chrome](https://github.com/spaisllc/live-captions/releases/tag/desktop-0.13.0)
 - All releases: https://github.com/spaisllc/live-captions/releases
 
 Privacy policy: https://www.springsaisolutions.com/voxgram-live/privacy
